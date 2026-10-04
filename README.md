@@ -68,7 +68,7 @@ A student task manager that turns everyday study tasks into progress. Built with
   <img width="55%" src="https://github-stats-extended.vercel.app/api?username=Nano963-p&amp;bg_color=21172F&amp;title_color=F2B5CF&amp;text_color=D0BEDF&amp;icon_color=C5A3EB&amp;border_color=493450&amp;border_radius=14&amp;show_icons=true&amp;custom_title=Manar%27s+GitHub+Stats" alt="Nano963-p GitHub statistics" />
 </p>
 <p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com/?user=Nano963-p&amp;background=21172F&amp;border=493450&amp;stroke=493450&amp;ring=C5A3EB&amp;fire=F2B5CF&amp;currStreakNum=F7EAF3&amp;sideNums=F7EAF3&amp;currStreakLabel=F2B5CF&amp;sideLabels=C5A3EB&amp;dates=BCA7CF&amp;border_radius=14" alt="Nano963-p total contributions, current streak and longest streak" />
+  <img width="70%" src="https://streak-stats.demolab.com/?user=Nano710&amp;background=21172F&amp;border=493450&amp;stroke=493450&amp;ring=C5A3EB&amp;fire=F2B5CF&amp;currStreakNum=F7EAF3&amp;sideNums=F7EAF3&amp;currStreakLabel=F2B5CF&amp;sideLabels=C5A3EB&amp;dates=BCA7CF&amp;border_radius=14" alt="Nano963-p total contributions, current streak and longest streak" />
 </p>
 
 <p align="center"><sub>A little snapshot of what I've been building.</sub></p>
