@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/manar-el-hynani-b190763aa/"><img src="https://img.shields.io/badge/LET'S_CONNECT-BF83A7?style=for-the-badge" alt="Connect on LinkedIn" /></a>
-  <a href="https://github.com/Nano963-p?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_MY_CODE-493459?style=for-the-badge" alt="Explore my repositories" /></a>
+  <a href="https://github.com/Nano710?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_MY_CODE-493459?style=for-the-badge" alt="Explore my repositories" /></a>
 </p>
 
 ## 👋 Hello there, I'm Manar!
@@ -39,7 +39,7 @@
 
 ### ✦ Things I’ve been building
 
-#### 📚 [TaskStudent](https://github.com/Nano963-p/TaskStudent)
+#### 📚 [TaskStudent](https://github.com/Nano710/TaskStudent)
 
 A student task manager that turns everyday study tasks into progress. Built with **Vue 3, Django REST Framework, and SQLite**, with **JWT authentication**.
 
@@ -48,7 +48,7 @@ A student task manager that turns everyday study tasks into progress. Built with
 - 🌟 Earn XP for completing tasks and track your level.
 - 🔐 Keep each user's tasks separate through user-scoped API queries.
 
-[Explore the code →](https://github.com/Nano963-p/TaskStudent)
+[Explore the code →](https://github.com/Nano710/TaskStudent)
 
 
 | Project | What I've been working on |
@@ -59,16 +59,16 @@ A student task manager that turns everyday study tasks into progress. Built with
 
 <br/>
 
-[Browse my repositories →](https://github.com/Nano963-p?tab=repositories)
+[Browse my repositories →](https://github.com/Nano710?tab=repositories)
 
 ### 📊 GitHub activity
 
 <p align="center">
-  <img width="43%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Nano963-p&amp;bg_color=21172F&amp;title_color=F2B5CF&amp;text_color=D0BEDF&amp;icon_color=C5A3EB&amp;border_color=493450&amp;border_radius=14&amp;layout=compact&amp;langs_count=6&amp;card_width=400" alt="Most used languages in Nano963-p's public repositories" />
-  <img width="55%" src="https://github-stats-extended.vercel.app/api?username=Nano963-p&amp;bg_color=21172F&amp;title_color=F2B5CF&amp;text_color=D0BEDF&amp;icon_color=C5A3EB&amp;border_color=493450&amp;border_radius=14&amp;show_icons=true&amp;custom_title=Manar%27s+GitHub+Stats" alt="Nano963-p GitHub statistics" />
+  <img width="43%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Nano710&amp;bg_color=21172F&amp;title_color=F2B5CF&amp;text_color=D0BEDF&amp;icon_color=C5A3EB&amp;border_color=493450&amp;border_radius=14&amp;layout=compact&amp;langs_count=6&amp;card_width=400" alt="Most used languages in Nano710's public repositories" />
+  <img width="55%" src="https://github-stats-extended.vercel.app/api?username=Nano710&amp;bg_color=21172F&amp;title_color=F2B5CF&amp;text_color=D0BEDF&amp;icon_color=C5A3EB&amp;border_color=493450&amp;border_radius=14&amp;show_icons=true&amp;custom_title=Manar%27s+GitHub+Stats" alt="Nano710 GitHub statistics" />
 </p>
 <p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com/?user=Nano710&amp;background=21172F&amp;border=493450&amp;stroke=493450&amp;ring=C5A3EB&amp;fire=F2B5CF&amp;currStreakNum=F7EAF3&amp;sideNums=F7EAF3&amp;currStreakLabel=F2B5CF&amp;sideLabels=C5A3EB&amp;dates=BCA7CF&amp;border_radius=14" alt="Nano963-p total contributions, current streak and longest streak" />
+  <img width="70%" src="https://streak-stats.demolab.com/?user=Nano710&amp;background=21172F&amp;border=493450&amp;stroke=493450&amp;ring=C5A3EB&amp;fire=F2B5CF&amp;currStreakNum=F7EAF3&amp;sideNums=F7EAF3&amp;currStreakLabel=F2B5CF&amp;sideLabels=C5A3EB&amp;dates=BCA7CF&amp;border_radius=14" alt="Nano710 total contributions, current streak and longest streak" />
 </p>
 
 <p align="center"><sub>A little snapshot of what I've been building.</sub></p>
@@ -81,5 +81,5 @@ Student initiatives, **Enactus**, and **Open Source events** are also part of my
 
 <p align="center">
   <samp>One problem, one idea, one little project at a time.</samp><br/><br/>
-  <a href="https://www.linkedin.com/in/manar-el-hynani-b190763aa/">LinkedIn</a> · <a href="https://github.com/Nano963-p">GitHub</a>
+  <a href="https://www.linkedin.com/in/manar-el-hynani-b190763aa/">LinkedIn</a> · <a href="https://github.com/Nano710">GitHub</a>
 </p>
